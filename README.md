@@ -7,3 +7,7 @@ El diseño de este sitio avanza sobre la idea de las *[transpointing windows](ht
 Este sitio presenta la materia tratada en los talleres de la Escuela de Arquitectura y Diseño PUCV por **Herbert Spencer**. 
 
 Para mayor información remítase al colofón.
+
+
+#### update 2025
+La versión online usa [Ruffle](https://ruffle.rs/) para visualizar los swf de forma segura
